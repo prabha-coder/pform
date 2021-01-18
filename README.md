@@ -12,7 +12,7 @@ This Plugin is help us to collect contact form details from wordpress site to Go
 
 [![Pform-Output1.png](https://i.postimg.cc/7hrF851Z/Pform-Output1.png)](https://github.com/prabha-coder/pform "Layout 1")
 
-[![Pform-Output2.png](https://i.postimg.cc/3N9nSNn6/Pform-Output2.png)](https://github.com/prabha-coder/pform "Layout 2")
+[![Pform-Output2.png](https://i.postimg.cc/MKzqLLpJ/Pform-Output2.png)](https://github.com/prabha-coder/pform "Layout 2")
 
 **Tested on Astra Theme 2**
 
