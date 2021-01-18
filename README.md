@@ -71,6 +71,7 @@ This Plugin is to help us to collect contact form details from a WordPress site 
 - Paste this shortcode <code><b> [pform_contact] </b> </code> on anywhere wordpress page/post.
 
 - For Button Contact Form, You can enable/disable it from PForm Setting.
+
 **👇 Google Sheet Storage 👇**
 
 [![Conform-Data-Stored-In-Google-Sheet.png](https://i.postimg.cc/sxWnW20M/Conform-Data-Stored-In-Google-Sheet.png)](https://github.com/prabha-coder/pform "Google Sheet Screenshot")
