@@ -18,6 +18,8 @@ This Plugin is help us to collect contact form details from wordpress site to Go
 
 [![Theme2.png](https://i.postimg.cc/wxF2dtQ4/Theme2.png)](https://github.com/prabha-coder/pform "Layout 3")
 
+- Changeable Contact Form Titles
+
 - Can Enable/Disable Button Form
 
 - Google Sheet Storage
