@@ -58,7 +58,7 @@ This Plugin is help us to collect contact form details from wordpress site to Go
 
 - Paste it on Script Editor and Replace Telegram Token and ID. Refer this image 👇 
 
-[![Google-Apps-Script-Code.png](https://i.postimg.cc/fRzwFr50/Google-Apps-Script-Code.png)](https://github.com/prabha-coder/pform "App Script Code")
+[![Google-Apps-Script-Code.png](https://i.postimg.cc/br3HpMXF/Google-Apps-Script-Code.png)](https://github.com/prabha-coder/pform "App Script Code")
 
 - Save it and if it ask autorization, Give it. Click Depoly button and Select New Deployment.
 
