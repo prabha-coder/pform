@@ -71,3 +71,7 @@ This Plugin is to help us to collect contact form details from a WordPress site 
 - Paste this shortcode <code><b> [pform_contact] </b> </code> on anywhere wordpress page/post.
 
 - For Button Contact Form, You can enable/disable it from PForm Setting.
+
+**👇 Telegram Notification  👇**
+
+[![Telegram-screenshot.jpg](https://i.postimg.cc/3N8fXVg3/Telegram-screenshot.jpg)](https://github.com/prabha-coder/pform "Telegram Screenshot")
