@@ -1,12 +1,14 @@
 # PForm Wordpress Plugin
 
-This Plugin is help us to collect contact form details from wordpress site to Google sheet and send notification to telegram.
+This Plugin is to help us to collect contact form details from a WordPress site to Google sheet and send a notification to the telegram.
+
+https://github.com/prabha-coder/pform
 
 [Download](https://raw.githubusercontent.com/prabha-coder/pform/master/pform.zip "PForm Wordpress Plugin Download")
 
 ### Plugin Features :
 
-- Adaptable Layout with Wordpress Theme
+- Adaptable Layout with WordPress Theme
 
 **Tested on Astra Theme 1**
 
@@ -30,7 +32,7 @@ This Plugin is help us to collect contact form details from wordpress site to Go
 
 ### How to Use :
 
-- Download PForm Plugin and Install it on Your Wordpress Site.
+- Download PForm Plugin and Install it on Your WordPress Site.
 
 - After activate the plugin and select <code>PForm Setting</code> from Menu sidebar.
 
@@ -42,7 +44,7 @@ This Plugin is help us to collect contact form details from wordpress site to Go
 
 - Goto your [Google drive](https://drive.google.com "Drive") and Click <code>New</code> Button from Left Top -> Click <code>Google Sheets</code> and Give the file name.
 
-- Type tag names on first row of the sheet. Refer this image 👇
+- Type tag names on the first row of the sheet. Refer to this image 👇
 
 [![create-tag-names.png](https://i.postimg.cc/MGQgrZ7K/create-tag-names.png)](https://postimg.cc/KKm912pd)
 
@@ -56,18 +58,18 @@ This Plugin is help us to collect contact form details from wordpress site to Go
 
 - Copy the code from <code>[Code.gs](https://github.com/prabha-coder/pform/blob/master/Code.gs "Code.gs")</code>.
 
-- Paste it on Script Editor and Replace Telegram Token and ID. Refer this image 👇 
+- Paste it on Script Editor and Replace Telegram Token and ID. Refer to this image 👇 
 
 [![Google-Apps-Script-Code.png](https://i.postimg.cc/br3HpMXF/Google-Apps-Script-Code.png)](https://github.com/prabha-coder/pform "App Script Code")
 
-- Save it and if it ask autorization, Give it. Click Depoly button and Select New Deployment.
+- Save it and if it asks authorization, Give it. Click the Deploy button and Select New Deployment.
 
 - In Prompt Window, Select <b>who has access</b> to <code>Anyone</code>. Finally, Click <code>Deploy</code> Button and Copy the Web App URL.
 
-- Paste it on PForm setting -> Google App Script URL field and Click Save Changes. That's it.
+- Paste it on PForm setting -> Google App Script URL field and click Save Changes. That's it.
 
-**👇 How to place contact form in wordpress page/post  👇**
+**👇 How to place contact form in WordPress page/post  👇**
 
 - Paste this shortcode <code><b> [pform_contact] </b> </code> on anywhere wordpress page/post.
 
-- For Button Contact Form, You can enable/disble it from PForm Setting.
+- For Button Contact Form, You can enable/disable it from PForm Setting.
