@@ -1,5 +1,4 @@
 # PForm Wordpress Plugin
-------------
 
 This Plugin is help us to collect contact form details from wordpress site to Google sheet and send notification to telegram.
 
