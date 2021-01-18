@@ -1,0 +1,87 @@
+.PForm_button_form {
+     position: fixed;
+     z-index: 10;
+     width: 50px;
+     height: 50px;
+     right: 50px;
+     bottom: 50px;
+     background-repeat: no-repeat;
+     background-size: 50px;
+     border-radius: 25%;
+     text-align: center;
+     padding: 9px;
+     box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.6), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+     cursor: pointer;
+     display: block;
+ }
+
+ .pform_outer_layout{
+     display: none;
+     z-index: 11;
+     position: fixed;
+     bottom: 50px;
+     right: 50px;
+     width: 300px;
+     height: auto;
+     padding: 5px 5px 5px 5px;
+     border-radius: 5px;
+     border: 3px solid #eee;
+     background: #fff;
+     overflow: hidden;
+ }
+
+ .pform_outer_layout .pform_outer_header {
+     background-color: rgb(22, 46, 98);
+     display: -webkit-box;
+     display: -webkit-flex;
+     display: -ms-flexbox;
+     display: flex;
+     margin-left: -6px;
+     margin-right: -6px;
+     margin-top: -5px;
+     margin-bottom: 3px;
+ }
+
+ .pform_outer_layout .pform_outer_header {
+     -webkit-box-align: center;
+     -webkit-align-items: center;
+     -ms-flex-align: center;
+     align-items: center;
+     padding-left: 10px;
+     padding-right: 40px;
+     height: 40px;
+     -webkit-flex-shrink: 0;
+     -ms-flex-negative: 0;
+     flex-shrink: 0
+ }
+
+
+ .pform_outer_layout .pform_outer_header h4 {
+     font-size: 16px;
+     -webkit-animation: slidein .15s .3s;
+     animation: slidein .15s .3s;
+     -webkit-animation-fill-mode: forwards;
+     animation-fill-mode: forwards
+ }
+
+
+ .pform_outer_layout .pform_outer_prompt {
+     color: rgb(255, 255, 255);
+     color: #fff;
+     margin: 0;
+     font-size: 16px;
+     line-height: 18px;
+     font-weight: 400;
+     overflow: hidden;
+     white-space: nowrap;
+     text-overflow: ellipsis;
+ }
+
+ .pform_outer_close_icon {
+     cursor: pointer;
+     color: #fff;
+     font-size: 16px;
+     position: absolute;
+     right: 12px;
+     z-index: 9;
+ }

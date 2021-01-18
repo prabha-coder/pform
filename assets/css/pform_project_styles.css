@@ -1,0 +1,119 @@
+/*
+* PForm Contact CSS
+*/
+.col-half-section.col-half-section-left {
+	float: left;
+}
+
+.pform-custom-form-style .pform-form-control-custom .form-control {
+	background: transparent;
+	border: none;
+	border-bottom: 1px solid #d8b113;
+	color: #1e1e1e;
+	font-size: 12px;
+	padding: 6px 0;
+	margin-bottom: 15px;
+	box-shadow: none;
+	width: 100%;
+}
+.pform-custom-form-style .pform-form-control-custom .form-control::-webkit-input-placeholder {
+	color: #1e1e1e;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+.pform-custom-form-style .pform-form-control-custom .form-control::-moz-placeholder {
+	color: #1e1e1e;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+.pform-custom-form-style .pform-form-control-custom .form-control:-ms-input-placeholder {
+	color: #1e1e1e;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+.pform-custom-form-style .pform-form-control-custom .form-control:-moz-placeholder {
+	color: #1e1e1e;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+.pform-custom-form-style .pform-form-control-custom textarea.form-control {
+	height: 100px;
+	margin-bottom: 15px;
+}
+
+.custom-feature-box:hover .custom-feature-box-icon {
+	background: #FDD55C;
+}
+.custom-feature-box:hover .custom-feature-box-icon i {
+	color: #1e1e1e !important;
+}
+.custom-feature-box .custom-feature-box-icon {
+	border: 1px solid #454441;
+	line-height: 0.9;
+	padding: 10px;
+	transition: ease background 300ms;
+}
+.custom-feature-box .custom-feature-box-icon i {
+	font-size: 1.4em;
+	transition: ease color 300ms;
+}
+.custom-feature-box .feature-box-info {
+	padding-left: 25px;
+	flex: none;
+}
+.custom-feature-box .feature-box-info > .custom-label {
+	display: block;
+	line-height: 1;
+	font-size: 0.8em;
+	color: #bdbdbd;
+	position: relative;
+}
+.custom-feature-box .feature-box-info > strong {
+	font-size: 1.7em;
+	line-height: 1;
+}
+.custom-feature-box .feature-box-info.custom-both-side-border {
+	border-right: 1px solid #52504d;
+	border-left: 1px solid #52504d;
+	line-height: 1;
+	padding: 0px 16px;
+	margin: 0 13px;
+}
+
+@media (max-width: 767px) {
+	.custom-feature-box .feature-box-info > strong {
+		font-size: 1.4em;
+	}
+
+	.custom-feature-box-icon {
+		top: -1px;
+	}
+}
+
+.mt-4, .my-4 {
+    margin-top: 1.5rem !important;
+}
+.alert-success {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+}
+.alert {
+    position: relative;
+    padding: .75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+        border-top-color: transparent;
+        border-right-color: transparent;
+        border-bottom-color: transparent;
+        border-left-color: transparent;
+    border-radius: .25rem;
+}
+.d-none {
+    display: none !important;
+}
+.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
